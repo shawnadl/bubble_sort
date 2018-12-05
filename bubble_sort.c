@@ -1,5 +1,7 @@
 //practice 4.1: prc_buble_sort_4.1
-// Multipurpose sorting program using function pointers.
+//Multipurpose sorting program using function pointers.
+//More details: C-how to program 7th edition by Paul Deitel, 
+//Harvey Deitel page311,312
 #include<stdio.h>
 #define SIZE 10
 
